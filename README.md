@@ -1,10 +1,10 @@
 <div align="center">
 <p align='center' style='min-height: 100px;'>
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40BFF7&width=435&lines=console.log(%22Editor-Studio%22)" alt="Typing SVG" /> 
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40BFF7&width=435&lines=console.log(%22Nxtspace%22)" alt="Typing SVG" /> 
 </p>
 
 <p align="center">
-  <img src="https://socialify.git.ci/Editor-Studio/Editor-Studio/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="Editor-Studio" width="700" height="300" />
+  <img src="https://socialify.git.ci/Nxtspace/Nxtspace/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="Nxtspace" width="700" height="300" />
 </p>
 
 | **Category**      | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -17,21 +17,21 @@
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Editor-Studio&amp;show_icons=true" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Nxtspace&amp;show_icons=true" alt="GitHub Stats">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Editor-Studio)](https://github.com/Editor-Studio)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nxtspace)](https://github.com/Nxtspace)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tokyonight&repo=Edit-Studio)](https://github.com/Editor-Studio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tokyonight&repo=Edit-Studio)](https://github.com/Nxtspace)
 
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/Editor-Studio" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<p><a href="https://github.com/Nxtspace" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 
 ---
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Editor-Studio&theme=github-dark-dimmed&custom_title=Editor-Studio%20Activity%20Graph&hide_border=true)](https://github.com/Editor-Studio)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nxtspace&theme=github-dark-dimmed&custom_title=Nxtspace%20Activity%20Graph&hide_border=true)](https://github.com/Nxtspace)
 
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/Editor-Studio/Editor-Studio?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/Editor-Studio/Editor-Studio?style=flat-square&labelColor=343b41"/></p>
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/Nxtspace/Nxtspace?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/Nxtspace/Nxtspace?style=flat-square&labelColor=343b41"/></p>
 </div>
